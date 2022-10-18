@@ -1,6 +1,6 @@
 # TAVT: Token Adaptive Vision Transformer with Efficient Deployment for Fine-Grained Image Recognition
 
-Official PyTorch code for the paper:  [*TAVT: Token Adaptive Vision Transformer with Efficient Deployment for Fine-Grained Image Recognition*](https://arxiv.org/abs/2103.07976)  
+Official PyTorch code for the paper:  TAVT: Token Adaptive Vision Transformer with Efficient Deployment for Fine-Grained Image Recognition
 
 
 ## Framework
